@@ -4,7 +4,7 @@ presents
 
 Project Lumiere
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Team members:
 1. Edmund Lam Hoe Mun
@@ -12,7 +12,7 @@ Team members:
 3. Jeraiah Khor Ri Syuen
 4. Gan Wee Sean
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Project Lumiere is a Virtual Fashion Manager built on and powered by Thunkable. 
 We are a team of engineering students and our objectives for this project is to
@@ -25,3 +25,7 @@ http://url5821.thunkable.com/ls/click?upn=9JS-2F714wtrENuLalHfV-2BI9UsKKdIAuBCev
 Link to Thunkable project:
 https://x.thunkable.com/copy/c014ee67e59c66b31cb47408918872dd
 Note: You might have to create a Thunkable account to view the project
+
+In the event where the apk doesn't install or if the app crashes due to unforeseen back-end limitations, use the Web Preview function on Thunkable.
+
+This is a work in progress, so it only serves as a showcase of our idea.
