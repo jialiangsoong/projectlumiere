@@ -24,3 +24,4 @@ shorturl.at/qtDJV
 
 Link to Thunkable project:
 https://x.thunkable.com/copy/c014ee67e59c66b31cb47408918872dd
+Note: You might have to create a Thunkable account to view the project
